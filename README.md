@@ -1,6 +1,9 @@
-### Olá, sou Magabrio! 😁
+### Hi, I'm Marcos Paulo! 😁
 
-- 🔭 Atualmente trabalho com engenheiro DevOps / Tech Leader
+> Tech Leader and DevOps Engineer at v(dev), passionate about new technology and leading teams to deliver exceptional results.
 
-[![Magabrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=magabrio&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magabrio&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Contact
+- **Email**: [contato@magabrio.dev](mailto:contato@magabrio.dev)
+- **LinkedIn**: [linkedin.com/in/marcos-gpaulo/](https://linkedin.com/in/marcos-gpaulo/)
+- **GitHub**: [github.com/magabrio](https://github.com/magabrio)
+- **Portfolio**: [magabrio.dev](https://magabrio.dev)
